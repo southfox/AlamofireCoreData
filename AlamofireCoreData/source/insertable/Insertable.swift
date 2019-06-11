@@ -8,7 +8,6 @@
 
 import Foundation
 import CoreData
-import Groot
 
 /// The errors that can be thrown if
 ///

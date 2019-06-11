@@ -8,7 +8,6 @@
 
 import Alamofire
 import CoreData
-import Groot
 
 /// A wrapper which encapsulate all the info of the response of a Request 
 public struct ResponseInfo {

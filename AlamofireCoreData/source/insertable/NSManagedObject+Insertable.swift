@@ -8,7 +8,6 @@
 
 import Foundation
 import CoreData
-import Groot
 
 extension NSManagedObject: Insertable {
     public static func insert(from json: Any, in context: NSManagedObjectContext) throws -> Self {

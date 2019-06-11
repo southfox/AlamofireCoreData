@@ -8,7 +8,6 @@
 
 import Foundation
 import CoreData
-import Groot
 
 /// An `Array` replacement which can just contains `ManyInsertable` instances. 
 /// It implements `Insertable` so it can be used to insert-serialize array responses using Alamofire.
